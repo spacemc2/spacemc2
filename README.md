@@ -39,5 +39,5 @@
 
 ## Social
 
-![](https://img.shields.io/badge/LinkedIn-miguel-torres-acosta-0b2485197-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![](https://img.shields.io/badge/LinkedIn-miguel-torres-acosta-0b2485197.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
