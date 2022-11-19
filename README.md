@@ -5,7 +5,7 @@
 ![](https://img.shields.io/badge/Code-C-informational?style=for-the-badge&logo=c&logoColor=white&color=7EC8E3)
 ![](https://img.shields.io/badge/Code-C++-informational?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=7EC8E3)
 ![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=7EC8E3)
-![](https://img.shields.io/badge/Code-R-informational?style=for-the-badge&logo=python&logoColor=white&color=7EC8E3)
+![](https://img.shields.io/badge/Code-R-informational?style=for-the-badge&logo=R&logoColor=white&color=7EC8E3)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=7EC8E3)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=for-the-badge&logo=html5&logoColor=white&color=7EC8E3)
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=for-the-badge&logo=css3&logoColor=white&color=7EC8E3)
