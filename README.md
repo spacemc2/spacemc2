@@ -1,3 +1,4 @@
+## 🔧 Technologies and Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=7EC8E3)
 ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=for-the-badge&logo=ubuntu&logoColor=white&color=7EC8E3)
@@ -30,6 +31,7 @@
 ![](https://img.shields.io/badge/Cloud-Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&color=7EC8E3)
 
 
+## &#x1f4c8; GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=spacemc2)](https://git.io/streak-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=spacemc2)](https://github.com/anuraghazra/github-readme-stats)
