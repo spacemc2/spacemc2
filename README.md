@@ -40,4 +40,4 @@
 ## Social
 
 ![](https://img.shields.io/badge/LinkedIn-mtacosta-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![](https://img.shields.io/badge/kaggle-migueltorresacosta-%230078B5.svg?style=for-the-badge&logo=kaggle&logoColor=white)
+![](https://img.shields.io/badge/kaggle-migueltorresacosta-%12ed36.svg?style=for-the-badge&logo=kaggle&logoColor=white)
