@@ -42,7 +42,7 @@
 ## Social
 
 ![](https://img.shields.io/badge/LinkedIn-mtacosta-%12ed36.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![https://www.kaggle.com/migueltorresacosta/code](https://img.shields.io/badge/Kaggle-migueltorresacosta-%12ed36.svg?style=for-the-badge&logo=kaggle&logoColor=white)
+![](https://img.shields.io/badge/Kaggle-migueltorresacosta-%12ed36.svg?style=for-the-badge&logo=kaggle&logoColor=white)
 ![](https://img.shields.io/badge/Tableau-miguel4416-%12ed36.svg?style=for-the-badge&logo=tableau&logoColor=white)
 
 
