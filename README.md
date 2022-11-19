@@ -11,7 +11,7 @@
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=for-the-badge&logo=css3&logoColor=white&color=7EC8E3)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=7EC8E3)
 ![](https://img.shields.io/badge/Code-Django-informational?style=for-the-badge&logo=django&logoColor=white&color=7EC8E3)
-![](https://img.shields.io/badge/Code-React-informational?style=for-the-badge&logo=vue.js&logoColor=white&color=7EC8E3)
+![](https://img.shields.io/badge/Code-React-informational?style=for-the-badge&logo=react&logoColor=white&color=7EC8E3)
 ![](https://img.shields.io/badge/Code-Material_UI-informational?style=for-the-badge&logo=material-ui&logoColor=white&color=7EC8E3)
 ![](https://img.shields.io/badge/ML-Tensorflow-informational?style=for-the-badge&logo=tensorflow&logoColor=white&color=7EC8E3)
 ![](https://img.shields.io/badge/ML-Keras-informational?style=for-the-badge&logo=keras&logoColor=white&color=7EC8E3)
