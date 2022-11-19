@@ -15,7 +15,7 @@
 ![](https://img.shields.io/badge/Code-Material_UI-informational?style=for-the-badge&logo=material-ui&logoColor=white&color=7EC8E3)
 ![](https://img.shields.io/badge/ML-Tensorflow-informational?style=for-the-badge&logo=tensorflow&logoColor=white&color=7EC8E3)
 ![](https://img.shields.io/badge/ML-Keras-informational?style=for-the-badge&logo=keras&logoColor=white&color=7EC8E3)
-![](https://img.shields.io/badge/ML-Pandas-informational?style=for-the-badge&logo=pytorch&logoColor=white&color=7EC8E3)
+![](https://img.shields.io/badge/ML-Pandas-informational?style=for-the-badge&logo=pandas&logoColor=white&color=7EC8E3)
 ![](https://img.shields.io/badge/Databases-SQLite-informational?style=for-the-badge&logo=sqlite&logoColor=white&color=7EC8E3)
 ![](https://img.shields.io/badge/Databases-PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=7EC8E3)
 ![](https://img.shields.io/badge/Databases-MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&color=7EC8E3)
