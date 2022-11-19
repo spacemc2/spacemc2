@@ -39,5 +39,5 @@
 
 ## Social
 
-![](https://img.shields.io/badge/LinkedIn-miguel'-'torresacosta'-'0b2485197%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![](https://img.shields.io/badge/LinkedIn-migueltorresacosta0b2485197%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
