@@ -38,6 +38,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spacemc2&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
 
+
+<a href="https://github.com/spacemc2/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spacemc2&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact&langs_count=8" />
+</a>
+
 ## Social
 
 ![](https://img.shields.io/badge/LinkedIn-mtacosta-%12ed36.svg?style=for-the-badge&logo=linkedin&logoColor=white)
