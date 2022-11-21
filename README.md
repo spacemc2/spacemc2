@@ -38,7 +38,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spacemc2&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-
 ## Social
 
 ![](https://img.shields.io/badge/LinkedIn-mtacosta-%12ed36.svg?style=for-the-badge&logo=linkedin&logoColor=white)
