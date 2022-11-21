@@ -34,7 +34,7 @@
 ## &#x1f4c8; GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=spacemc2)]
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=spacemc2)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=spacemc2)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spacemc2)](https://github.com/anuraghazra/github-readme-stats)
 
