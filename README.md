@@ -36,7 +36,8 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=spacemc2)](https://git.io/streak-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=spacemc2)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spacemc2"/>
+<img alt="spacemc2's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spacemc2&langs_count=4&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=68C3D4&icon_color=F8D866&hide_border=true&hide=CSS,Java,HTML,c%2B%2B,Ren'Py" height="198px"/>
+
 ## Social
 
 ![](https://img.shields.io/badge/LinkedIn-mtacosta-%12ed36.svg?style=for-the-badge&logo=linkedin&logoColor=white)
