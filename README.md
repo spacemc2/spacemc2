@@ -35,7 +35,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=spacemc2)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=spacemc2)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spacemc2)
+
 
 ## Social
 
