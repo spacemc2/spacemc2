@@ -42,7 +42,7 @@
 
 ## Social
 
-![](https://img.shields.io/badge/LinkedIn-mtacosta-%12ed36.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=7EC8E3)
+![https://www.google.com/search?q=!%5B%5D+attach+url&rlz=1C1CHBF_enUS1042US1042&oq=!%5B%5D+attach+url&aqs=chrome..69i57j0i512j0i22i30l6j0i390i650.12127j0j7&sourceid=chrome&ie=UTF-8 ](https://img.shields.io/badge/LinkedIn-mtacosta-%12ed36.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=7EC8E3)
 ![](https://img.shields.io/badge/Kaggle-migueltorresacosta-%12ed36.svg?style=for-the-badge&logo=kaggle&logoColor=white&color=7EC8E3)
 ![](https://img.shields.io/badge/Tableau-miguel4416-%12ed36.svg?style=for-the-badge&logo=tableau&logoColor=white&color=7EC8E3)
 
