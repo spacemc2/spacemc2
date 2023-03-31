@@ -36,7 +36,7 @@
 [![GitHub Streak](http://mtorresroadby.com/)](https://streak-stats.demolab.com/?user=spacemc2)
 ![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=spacemc2&show_icons=true&theme=transparent&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spacemc2&layout=compact&count_private=true)](https://github.com/spacemc2/github-readme-stats)
+![Top Langs](https://github.com/spacemc2/github-readme-stats)
 
 
 
