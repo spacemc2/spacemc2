@@ -28,7 +28,7 @@
 ![](https://img.shields.io/badge/Tools-Google_Colab-informational?style=for-the-badge&logo=googlecolab&logoColor=white&color=7EC8E3)
 ![](https://img.shields.io/badge/Cloud-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&color=7EC8E3)
 ![](https://img.shields.io/badge/Cloud-Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&color=7EC8E3)
-[![](https://www.mongodb.com/docs/manual/reference/operator/update/push/)](https://img.shields.io/badge/Cloud-Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&color=7EC8E3)
+![](https://img.shields.io/badge/Cloud-Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&color=7EC8E3)
 
 
 ## &#x1f4c8; GitHub Stats
