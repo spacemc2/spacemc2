@@ -31,13 +31,6 @@
 
 ## Social
 
-![](https://img.shields.io/badge/LinkedIn-mtacosta-%12ed36.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=7EC8E3)
-![](https://img.shields.io/badge/Kaggle-migueltorresacosta-%12ed36.svg?style=for-the-badge&logo=kaggle&logoColor=white&color=7EC8E3)
-![](https://img.shields.io/badge/Tableau-miguel4416-%12ed36.svg?style=for-the-badge&logo=tableau&logoColor=white&color=7EC8E3)
-
-
-
-
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mtacosta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
