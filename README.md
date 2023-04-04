@@ -15,7 +15,7 @@
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![](	https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![](https://img.shields.io/badge/Databases-MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&color=7EC8E3)
+![](	https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/Cloud-Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&color=7EC8E3)
 ![](https://img.shields.io/badge/Cloud-Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&color=7EC8E3)
 
