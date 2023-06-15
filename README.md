@@ -4,8 +4,11 @@
 
 </div>
 
+<div align="center" dir="auto" <img style="max-width: 100%;">
+
 <div align="begin"><em>There are two possible outcomes: if the result confirms the hypothesis, then you've made a measurement. If the result is contrary to the hypothesis, then you've made a discovery</em></div>
 
+</div>
 
 <div align="center" dir="auto" <img style="max-width: 100%;">
 
