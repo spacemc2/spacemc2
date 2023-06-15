@@ -19,9 +19,9 @@
 ![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
-## &#x1f4c8; GitHub Stats
-<div align="center" dir="auto" <img style="max-width: 100%;">
 
+<div align="center" dir="auto" <img style="max-width: 100%;">
+## &#x1f4c8; GitHub Stats
 ![GitHub Streak](https://streak-stats.demolab.com/?user=spacemc2)
 
 [![Miguel's GitHub stats](https://github-readme-stats-pi-seven-39.vercel.app/api?username=spacemc2&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
