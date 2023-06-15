@@ -9,7 +9,6 @@
 <em><q>There are two possible outcomes: if the result confirms the hypothesis, then you've made a measurement. If the result is contrary to the hypothesis, then you've made a discovery.</q></em>
   <br/>
   <br/>
-
   <strong><em>Enrico Fermi</em></strong>
 
 </div>
