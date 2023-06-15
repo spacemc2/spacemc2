@@ -1,3 +1,6 @@
+
+<div align="center" dir="auto" <img style="max-width: 100%;">
+
 ## 🔧 Technologies and Tools
 
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -18,7 +21,7 @@
 ![](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-
+</div>
 
 <div align="center" dir="auto" <img style="max-width: 100%;">
 
