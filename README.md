@@ -10,7 +10,7 @@
   <br/>
   <br/>
   <div align="center" >
-  --<strong><em>Enrico Fermi</em></strong>--
+  &#8212;<strong><em>Enrico Fermi</em></strong>--
 </div
 </div>
 
