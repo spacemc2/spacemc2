@@ -1,4 +1,4 @@
-<div align="center" dir="auto" <img style="max-width: 100%;">
+<div align="center" >
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&fontAlign=50&section=header&text=&fontSize=40)
 
