@@ -1,10 +1,10 @@
 <div align="center" dir="auto" <img style="max-width: 100%;">
 
-
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&fontAlign=50&section=header&text=&fontSize=40)
 
 </div>
+
+<div align="center">There are two possible outcomes: if the result confirms the hypothesis, then you've made a measurement. If the result is contrary to the hypothesis, then you've made a discovery</div>
 
 
 <div align="center" dir="auto" <img style="max-width: 100%;">
