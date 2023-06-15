@@ -6,7 +6,7 @@
 
 <div align="begin" >
 
-<em>There are two possible outcomes: if the result confirms the hypothesis, then you've made a measurement. If the result is contrary to the hypothesis, then you've made a discovery.</em>
+<em>&quotThere are two possible outcomes: if the result confirms the hypothesis, then you've made a measurement. If the result is contrary to the hypothesis, then you've made a discovery.</em>
   <br/>
   <br/>
   <br/>
