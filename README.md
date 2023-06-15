@@ -63,3 +63,9 @@
     <a href="https://www.kaggle.com/migueltorresacosta" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
   <a href="https://mtorresroadby.com/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 </div>
+
+<div align="center" >
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&fontAlign=50&section=footer&text=&fontSize=40)
+
+</div>
