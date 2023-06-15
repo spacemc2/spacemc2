@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&height=100&section=header&text=capsule%20render&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=100&section=header&text=capsule%20render&fontSize=70)
 
 
 <div align="center" dir="auto" <img style="max-width: 100%;">
