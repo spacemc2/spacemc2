@@ -2,7 +2,7 @@
 
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&fontAlign=50&section=header&text=There%20are%20two%20possible%20outcomes:%20if%20the%20result%20confirms%20the%20hypothesis,%20then%20you've%20made%20a%20measurement.%20If%20the%20result%20is%20contrary%20to%20the%20hypothesis,%20then%20you've%20made%20a%20discovery&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&fontAlign=50&section=header&text=&fontSize=40)
 
 </div>
 
