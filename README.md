@@ -25,7 +25,7 @@
 
 a
 
-[![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=spacemc2&count_private=true&show_icons=true&theme=transparent&random=2323431sd2f)]
+[![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=spacemc2&count_private=true&show_icons=true&theme=transparent&random=2323431sd2f)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats-pi-seven-39.vercel.app/api/top-langs/?username=spacemc2&hide_progress=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
