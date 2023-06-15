@@ -29,6 +29,9 @@
 
 [![Top Langs](https://github-readme-stats-pi-seven-39.vercel.app/api/top-langs/?username=spacemc2&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=spacemc2&repo=github-readme-stats" />
+</a>
 
 
 ## Social 
