@@ -10,7 +10,7 @@
   <br/>
   <br/>
   <br/>
-  <strong>"Enrico Fermi"</strong>
+  <strong>Enrico Fermi</strong>
 
 </div>
 
