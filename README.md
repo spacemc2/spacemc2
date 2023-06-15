@@ -1,4 +1,4 @@
-<div align="center" dir="auto" <img style="max-width: 100%;">
+<div align="center" dir="auto" <img style="max-width: 100px;">
 
 <p>
 
