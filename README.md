@@ -21,7 +21,8 @@
 
 ## &#x1f4c8; GitHub Stats
 <div align="center" dir="auto" <img style="max-width: 100%;">
-![GitHub Streak](https://streak-stats.demolab.com/?user=spacemc2)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=spacemc2)]
 
 [![Miguel's GitHub stats](https://github-readme-stats-pi-seven-39.vercel.app/api?username=spacemc2&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
