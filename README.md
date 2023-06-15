@@ -23,11 +23,14 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=spacemc2)
 
-
+<div align="center" dir="auto" <img style="max-width: 100%;">
 
 [![Miguel's GitHub stats](https://github-readme-stats-pi-seven-39.vercel.app/api?username=spacemc2&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats-pi-seven-39.vercel.app/api/top-langs/?username=spacemc2&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+
 
 
 
