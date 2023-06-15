@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=capsule%20render&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=There are two possible outcomes: if the result confirms the hypothesis, then you've made a measurement. If the result is contrary to the hypothesis, then you've made a discovery%20render&fontSize=70)
 
 
 <div align="center" dir="auto" <img style="max-width: 100%;">
