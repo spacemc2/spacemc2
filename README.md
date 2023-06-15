@@ -23,9 +23,9 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=spacemc2)
 
-a
 
-[![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=spacemc2&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Miguel's GitHub stats](https://github-readme-stats-pi-seven-39.vercel.app/api?username=spacemc2&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats-pi-seven-39.vercel.app/api/top-langs/?username=spacemc2&hide_progress=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
